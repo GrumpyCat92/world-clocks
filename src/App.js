@@ -1,5 +1,5 @@
 import "./App.css";
-import WorldClocks from "./WorldClocks";
+import WorldClocks from "./Components/WorldClocks";
 
 function App() {
   return <WorldClocks />;
